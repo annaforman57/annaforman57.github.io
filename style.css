@@ -1,0 +1,54 @@
+body{
+    background: rgb(210,234,255);
+}
+
+p{
+    font-family: 'Courgette', cursive;;
+}
+
+h1{
+ 
+    color: rgb(18, 122, 211);
+    text-align: center;
+}
+h2{
+    color: rgb(205, 11, 255);
+    font-family: 'Fugaz One', cursive;;
+
+}
+h3{
+    color: rgb(255,45,144);
+}
+li{
+    color: purple;
+    background-color:white;
+}
+#section1{
+   
+    margin-top: -150px;
+}
+
+
+#advertisement{
+    margin-top: 200px;
+    border: 12px solid rgb(209, 109, 209);
+}
+
+#table{
+    text-align:center;
+}
+
+table, th, td {
+  border: 5px solid teal;
+  
+}
+
+
+
+.img{
+    padding-top: 30px ;
+    padding-bottom: 30px ;
+    padding-left: 30px;
+    Padding-right: 30px;
+    border: 12px solid rgb(133,156,255);
+}
